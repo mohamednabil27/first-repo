@@ -1,6 +1,5 @@
 first line
 adding in branch origin
-added in origin
-
+added in master
 line 4 after merge
 
