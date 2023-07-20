@@ -1,5 +1,7 @@
 first line
+added
 adding in branch origin
 added in master
+added in origin
 line 4 after merge
-
+commit in origin
